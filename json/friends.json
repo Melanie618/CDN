@@ -1,10 +1,20 @@
 [
   {
-      "url": "https://jiangsihan.cn/",
-      "avatar": "https://jiangsihan.cn/logo",
-      "name": "江子辰",
-      "blog": "为天地立心，为生民立命，为往圣继绝学，为万世开太平",
-      "desc": "前端领域的代码搬运工、CV大法攻城狮 | 华为云享专家 | 阿里云技术专家博主 | 意外网络科技技术负责人 | 前端P5中高级工程师",
-      "color": "#90A6BC"
+    "url": "https://www.yunyoujun.cn",
+    "avatar": "https://cdn.jsdelivr.net/gh/YunYouJun/yunyoujun.github.io/images/avatar.jpg",
+    "name": "云游君",
+    "blog": "云游君的小站",
+    "desc": "All at sea.",
+    "color": "#0078e7",
+    "email": "me@yunyoujun.cn"
+  },
+  {
+    "url": "https://jiangsihan.cn/",
+    "avatar": "https://jiangsihan.cn/logo",
+    "name": "江子辰",
+    "blog": "前端江太公",
+    "desc": "前端领域的代码搬运工、CV大法攻城狮 | 华为云享专家 | 阿里云技术专家博主 | 意外网络科技技术负责人 | 前端P5中高级工程师",
+    "color": "#90A6BC",
+    "email": ""
   }
 ]
